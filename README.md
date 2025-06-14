@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysha Parveen</h1>
 <h3 align="center">Data Analyst| Excel Expert</h3>
-<img align=”right”alt=”coding”width=”400”src=”[original-b8cd7ae9ac9164c57b6f930d8612699d](https://github.com/user-attachments/assets/d1e8421f-e1cf-44b0-ac34-045ba6e6f338)"
- /> </p>
+<img align=”right”alt=”coding”width=”400”src=”[original-b8cd7ae9ac9164c57b6f930d8612699d](https://github.com/user-attachments/assets/d1e8421f-e1cf-44b0-ac34-045ba6e6f338)">
+ 
 
 - 🔭 I’m currently working on [Dim Sales Dashboard](https://d.docs.live.net/443968024A5AF6DE/Desktop/Dim%20Sale%20Dashboard.xlsx)
 
