@@ -1,4 +1,6 @@
-![logo](https://github.com/Aysha791/Aysha-Parveen/blob/main/Data%20Analyst%20(1).png)
+![Data Analyst (3)](https://github.com/user-attachments/assets/95332893-aea5-4363-86d0-28fbb2de30d1)
+
+
 # 💫 Hi 👋, I'm Aysha Parveen
 **Data Analyst || Excel Expert || Power BI**
 
