@@ -1,3 +1,4 @@
+![logo](https://github.com/Aysha791/Aysha-Parveen/blob/main/Data%20Analyst%20(1).png)
 <h1 align="center">Hi 👋, I'm Aysha Parveen</h1>
 <h3 align="center">Data Analyst| Excel Expert</h3>
 <img align=”right”alt=”coding”width=”400”src=”[original-b8cd7ae9ac9164c57b6f930d8612699d](https://github.com/user-attachments/assets/d1e8421f-e1cf-44b0-ac34-045ba6e6f338)">
